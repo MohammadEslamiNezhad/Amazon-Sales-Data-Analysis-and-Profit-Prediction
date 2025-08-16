@@ -57,4 +57,4 @@ The following Python libraries are required to run this notebook:
 -   seaborn
 -   scikit-learn
 
-You can install these using pip:
+You can install these using pip.
